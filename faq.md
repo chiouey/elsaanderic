@@ -1,13 +1,12 @@
 ---
 title: FAQs
-image: "../assets/images/sweden-aperol.jpg"
 ---
 
 ### What should I wear?
 
 The only event with a dress code is Saturday. 
 
-Our theme is *"Riviera Chic"*. Think linen, open collars, sandals & midi dresses.
+Our theme is *"High Summer Semi-Formal"*. Think linen, open collars, sandals & midi dresses.
 
 It's likely going to be hot, so don't feel the need to wear a jacket or a tie.
 
