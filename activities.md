@@ -1,5 +1,5 @@
 ---
-title: Activities
+title: What to do around Thun
 feature_image: "../assets/images/sanitarium.jpeg"
 ---
 
