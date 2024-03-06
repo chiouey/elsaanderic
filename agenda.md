@@ -10,11 +10,11 @@ This is the rough plan:
 - **Friday**
     - An afternoon of swimming and a picnic dinner - exact time and location TBD
 - **Saturday - Main Event**   
-  *Hotel Bellevue au Lac is a lakefront hotel in Hilterfingen (take the 21 bus from Thun train station to Hilterfingen, Kirche. It’s a ~15 minute ride and the bus leaves every 10 minutes on a Saturday afternoon)*
+  *Hotel Bellevue au Lac is a lakefront hotel in Hilterfingen (take the 21 bus from Thun train station to Hilterfingen, Kirche. It’s a ~15 minute ride and the bus leaves every 10 minutes on a Saturday afternoon. It's a bit too far to walk from Thun.)*
   
 
   *Dress: "High Summer Semi-formal", "Garden Party" (See [FAQs](../faq/))*
-    - Before 1:30pm: Time for you to explore the local area
+    - Before 2:30pm: Time for you to explore the local area
     - 3 - 4:30pm: Guests arrive, apero, mingle, lounge
     - 4:30 - 5:15pm: Ceremony
     - 5:30 - 7:30pm: Dinner 
