@@ -19,9 +19,9 @@ This is the rough plan:
   
 
   *Dress: "High Summer Semi-formal", "Garden Party" (See [FAQs](../faq/))*
-    - Before 2:30pm: Time for you to explore the local area
-    - 3 - 4:30pm: Guests arrive, apero, mingle, lounge
-    - 4:30 - 5:15pm: Ceremony
+    - Before 3pm: Time for you to explore the local area
+    - 3:30 - 5pm: Guests arrive, apero, mingle, lounge
+    - 5 - 5:30pm: Ceremony
     - 5:30 - 7:30pm: Dinner 
     - 8 - 9pm: Cake on the boat (9pm drop-off in [Hunibach](https://www.google.com/maps/place/H%C3%BCnibach/@46.7435689,7.6352037,16z/data=!4m9!1m2!11m1!2sj-dw_wKpb8nvyJM-7NCdKTgpG4-d-Q!3m5!1s0x478fb28b185f67f3:0x2698222a2ae01370!8m2!3d46.743569!4d7.642666!16s%2Fg%2F1vn_xwk2))
     - 9 - 11pm: Boat ride continues with dancing and festivities (11pm end in Thun)
