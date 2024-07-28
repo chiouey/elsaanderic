@@ -8,7 +8,12 @@ We have events on Friday August 9th and Saturday August 10th in Thun. You are we
 This is the rough plan:
 
 - **Friday**
-    - An afternoon of swimming and a picnic dinner - exact time and location TBD
+  *The Strandabad is a city-sponsored lakeside swimming area with a big pool and great mountain views (take the 1 bus from Thun train station to Thun, Strandabad; the 5 bus to Thun, Schulstrasse; or walk ~30 minutes.)*
+
+  - 1:30 - 6:30pm: completely optional swimming and lounging. This is low key - come and go if and when you want! We'll be around the whole time, maybe with a badminton set
+  - 6:30 - 9pm: dinner at the Strandabad restaurant. We'll have a burger (veggie burgers too!) and salad buffet and refreshing beverages to boot!
+  - 9pm - late: (again, optional!) [Thunfest](https://www.thunfest.ch/) is Switzerland's largest annual town festival and kicks off on Friday with lots of live music and bites
+
 - **Saturday - Main Event**   
   *Hotel Bellevue au Lac is a lakefront hotel in Hilterfingen (take the 21 bus from Thun train station to Hilterfingen, Kirche. It’s a ~15 minute ride and the bus leaves every 10 minutes on a Saturday afternoon. It's a bit too far to walk from Thun.)*
   
