@@ -10,8 +10,8 @@ This is the rough plan:
 - **Friday**
   *The Strandabad is a city-sponsored lakeside swimming area with a big pool and great mountain views (take the 1 bus from Thun train station to Thun, Strandabad; the 5 bus to Thun, Schulstrasse; or walk ~30 minutes.)*
 
-  - 1:30 - 6:30pm: completely optional swimming and lounging. This is low key - come and go if and when you want! We'll be around the whole time, maybe with a badminton set
-  - 6:30 - 9pm: dinner at the Strandabad restaurant. We'll have a burger (veggie burgers too!) and salad buffet and refreshing beverages to boot!
+  - 1:30 - 6pm: completely optional swimming and lounging. This is low key - come and go if and when you want! We'll be around the whole time, maybe with a badminton set
+  - 6 - 9pm: dinner at the Strandabad restaurant. We'll have a burger (veggie burgers too!) and salad buffet and refreshing beverages to boot! Feel free to swim during this time, too.
   - 9pm - late: (again, optional!) [Thunfest](https://www.thunfest.ch/) is Switzerland's largest annual town festival and kicks off on Friday with lots of live music and bites
 
 - **Saturday - Main Event**   
