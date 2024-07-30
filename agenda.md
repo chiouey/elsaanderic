@@ -5,8 +5,6 @@ feature_image: "../assets/images/cara-wedding.jpeg"
 
 We have events on Friday August 9th and Saturday August 10th in Thun. You are welcome to come to as much or as little as you like. We will also be around the week before if you want to hang out.
 
-This is the rough plan:
-
 ### Friday
 
 *The Strandabad is a city-sponsored lakeside swimming area with a big pool and great mountain views (take the 1 bus from Thun train station to Thun, Strandabad; the 5 bus to Thun, Schulstrasse; or walk ~30 minutes.)*
