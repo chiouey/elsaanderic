@@ -19,6 +19,7 @@ feature_image: "../assets/images/sanitarium.jpeg"
 - Hiking in the Bernese Oberland, Emmental, Oeschinensee, Neisen, Stockhorn. For route ideas, the [Swiss Mobility](https://schweizmobil.ch/en/hiking-in-switzerland) website and app have endless options of varying degrees of difficulty.
 - Bike ride 
   - There's a [bike hire](https://www.rentabike.ch/home) in the Thun train station! They have upright bikes and e-bikes that come with racks. You can rent helmets there too. Another plug for the [Swiss Mobility](https://schweizmobil.ch/en/cycling-in-switzerland) website and app.
+  - Mountain and e-Mountain bikes can be rented at the Lab Hotel. For those looking for road bikes, you can pick up an [Intersport rental](https://www.intersportrent.com/en) in Interlaken.
 - Swimming at [Schwäbis](https://www.thun.ch/sport/53414), [Marzili](https://www.myswitzerland.com/en-us/experiences/marzili-lido/), [Strandbad](https://www.thun.ch/sport/53411)
 - More swimming in Hünibach or Oberhofen
 - Viewing the city from [Jakobshübeli](https://www.interlaken.ch/en/experiences/poi/jakobshuebeli)
