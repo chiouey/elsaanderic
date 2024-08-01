@@ -13,6 +13,7 @@ feature_image: "../assets/images/sanitarium.jpeg"
 - [Bistro Promenade](https://www.google.com/maps/place/Bistro+Promenade/@46.7540232,7.6341101,17z/data=!3m1!4b1!4m6!3m5!1s0x478fb2efe68a76bf:0x6213a54da3203e9a!8m2!3d46.7540232!4d7.636685!16s%2Fg%2F11cm39mx8z) is family favorite. The original proprietor has more or less retired but still wakes up early to sell croissants on Saturday mornings
 - [Steinmann](https://www.google.com/maps/place/Steinmann/@46.7584685,7.6250335,17z/data=!3m1!4b1!4m6!3m5!1s0x478fb2e771271eb7:0x30dd3e1a3451dfc5!8m2!3d46.7584685!4d7.6276084!16s%2Fg%2F1tlzz2b0) is a great place for tea and coffee. Make sure to order crèmeschnitte!
 - There's a Saturday fresh market in the [Bälliz](https://www.google.com/maps/place/B%C3%A4lliz,+3600+Thun,+Switzerland/@46.7574719,7.629063,19.88z/data=!4m6!3m5!1s0x478fb2e77283299f:0x6c5c5cdd125eb8cd!8m2!3d46.7588007!4d7.6278975!16s%2Fg%2F1v9l9pp8) with its Bio (organic) cousin in the [Rathausplatz](https://www.google.com/maps/place/Rathausplatz/@46.7595643,7.6285139,19z/data=!3m1!4b1!4m6!3m5!1s0x478fb2e738596bd3:0x5c97b3e10608aa0d!8m2!3d46.7595643!4d7.6285139!16s%2Fg%2F11bzt4pmgr)
+- [FREDS am Wasser](https://www.fredsamwasser.ch/) is a really cute pop up restaurant/ bar on the water. You can go for just a drink or food
 
 ### What to do
 - Check your hotel Panorama pass - it likely has discounts to many of these places!
